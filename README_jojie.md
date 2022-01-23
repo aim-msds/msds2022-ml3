@@ -16,7 +16,7 @@ To reconfigure `conda` such that `conda` will install packages on a directory th
 mkdir ~/.conda/pkgs -p
 ```
 
-2. Create or edit `~/.condarc` and add the following lines:
+2. Create or edit the text file `~/.condarc` and add the following lines:
 
 ```
 channels:
@@ -26,6 +26,8 @@ pkgs_dirs:
   - ~/.conda/pkgs/
 channel_priority: strict
 ```
+
+You can do this by using vim editor via `vim ~/.condarc` then copying (`CTRL + C`) and pasting the lines above (`CTRL + SHIFT + V`) on the editor.
 
 This tells conda what channels to use and more importantly where to store packages. This ensures that we have write directory privileges on the packages directory of `conda`.
 
