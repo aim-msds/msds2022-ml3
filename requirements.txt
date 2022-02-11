@@ -9,6 +9,4 @@ scipy==1.7.1
 notebook==6.4.4
 jupyter-contrib-nbextensions==0.5.1
 ipywidgets==7.6.5
-tensorflow==2.6.0
-tensorboard==2.6.0
-keras==2.6.0
+tensorflow==2.6.3
