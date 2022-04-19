@@ -6,7 +6,7 @@ scikit-image==0.18.3
 scikit-learn==1.0
 seaborn==0.11.2
 scipy==1.7.1
-notebook==6.4.4
+notebook==6.4.10
 jupyter-contrib-nbextensions==0.5.1
 ipywidgets==7.6.5
 tensorflow==2.6.3
