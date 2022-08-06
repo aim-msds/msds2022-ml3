@@ -1,6 +1,6 @@
 # Machine Learning 3 Lectures
 
-This repository contains codes and notebooks used in lectures of AIM's MSDS ML3 course.
+This repository contains codes and notebooks used in lectures of AIM's MSDS ML3 (Deep Learning) course.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aim-msds/msds2022-ml3/blob/main/) [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aim-msds/msds2022-ml3.git/main)
 
